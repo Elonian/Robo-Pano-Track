@@ -1,4 +1,4 @@
-# RoboPanoTrack
+# Robo-Pano-Track
 
 Orientation Tracking and Panorama Stitching
 
